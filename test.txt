@@ -1,5 +1,6 @@
 This is txt file!
 This second txt!
-aaaaaaa This is test for local conflicts
+
+aaaaaaa  This is test for conflicts
 
 kkkkkkkkkkkkk
